@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+#btn{
+    padding: 0.5rem 1rem;
+    width: 200;
+    margin: auto;
+  }
+
+#cleanBTN{
+    padding: 0.5rem 1rem;
+    width: 200;
+    margin: auto;
+   
+  }
+
+  #divBTN{
+    display: grid;
+    place-items: center;
+    margin: auto;
+  }
+
+ textarea{
+    text-align: center;
+  }
